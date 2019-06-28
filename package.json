@@ -1,0 +1,14 @@
+{
+  "name": "nodejsbasic",
+  "version": "1.0.0",
+  "description": "Node.js basic",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Shah Arfan Mahdi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
