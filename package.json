@@ -4,11 +4,13 @@
   "description": "Node.js basic",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "express": "nodemon express.js"
   },
   "author": "Shah Arfan Mahdi",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "nodemon": "^1.19.1"
   }
 }
